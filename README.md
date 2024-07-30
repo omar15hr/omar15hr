@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Omar Hernández @omar15hr 👋
+👀 I’m interested in Coding, Video Games, Sports!
+🌱 I’m currently learning a lot of stuff
+
 
 <!--
 **omar15hr/omar15hr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
