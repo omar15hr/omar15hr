@@ -63,15 +63,4 @@
   </a>
 </p>
 
-<!-- Analitycs -->
-## <picture><img src = "https://github.com/omar15hr/omar15hr/blob/main/Images/Statistics.gif?raw=true" width = 50px></picture> Statistics
-<p align="center">
-  <a href="https://github.com/omar15hr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=backytadev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backytadev&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-
-
 -----
