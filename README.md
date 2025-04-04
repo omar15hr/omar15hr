@@ -43,7 +43,7 @@
 <h3 style="margin-left: 20px; margin-top: 20px; color: #3A91D1;">Frontend</h3>
 <p style="margin-left: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nextjs&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nextjs,vue,angular&perline=10" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@
 <h3 style="margin-left: 20px; margin-top: 20px; color: #3A91D1;">Backend</h3>
 <p style="margin-left: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nodejs,postgres,prisma,mongodb,docker&perline=10" />
+    <img src="https://skillicons.dev/icons?i=express,nodejs,postgres,prisma,mongodb,docker,nest&perline=10" />
   </a>
 </p>
 
